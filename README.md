@@ -1,2 +1,3 @@
 # hello-world
-First Project Programming 101 
+First Programming Project 101 
+lets do it 
